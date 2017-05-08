@@ -1,0 +1,6 @@
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\bin\Debug\reversenumber.exe.config
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\bin\Debug\reversenumber.exe
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\bin\Debug\reversenumber.pdb
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\obj\Debug\reversenumber.csprojResolveAssemblyReference.cache
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\obj\Debug\reversenumber.exe
+c:\users\adel\documents\visual studio 2017\Projects\reversenumber\reversenumber\obj\Debug\reversenumber.pdb
